@@ -1,7 +1,9 @@
 package com.example.Assignment.Assignment.controller;
 
+import com.example.Assignment.Assignment.model.Student;
 import com.example.Assignment.Assignment.service.StudentService;
-import com.example.Assignment.model.Student;
+
+
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

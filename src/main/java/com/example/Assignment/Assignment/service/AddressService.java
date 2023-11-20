@@ -1,7 +1,9 @@
 package com.example.Assignment.Assignment.service;
 
+import com.example.Assignment.Assignment.model.Address;
+
 import com.example.Assignment.Assignment.repository.AddressRepository;
-import com.example.Assignment.model.Address;
+
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
