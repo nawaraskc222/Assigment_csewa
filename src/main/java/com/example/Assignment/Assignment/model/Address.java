@@ -34,8 +34,7 @@ public class Address {
         this.addressType = addressType;
     }
 
-    // Getters and setters
-    // ...
+ 
 
     public Long getId() {
         return id;
